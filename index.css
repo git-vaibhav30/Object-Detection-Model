@@ -37,5 +37,36 @@ button {
     color: #fff;
     border-radius: 5px;
 }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.background-gif {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url('./background.jpg'); /* Replace 'your-background.gif' with the actual GIF file path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    z-index: -1;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent background color to improve readability */
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+/* You can override Bootstrap styles here or add additional custom styles */
 
 /* You can add more custom styles as needed */
