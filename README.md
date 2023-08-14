@@ -1,4 +1,4 @@
-# Object Detection Model Project || Deployment Link: https://object-detect-model.netlify.app/
+# Object Detection Model Project
 
 DESCRIPTION:
 The Object Detection Model project showcases a web interface that uses an object detection model to identify and classify objects in real-time using the webcam. The model has been trained to recognize images of humans and mobile devices, providing instant feedback on detected objects.
