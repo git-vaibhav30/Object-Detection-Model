@@ -2,6 +2,7 @@
 
 DESCRIPTION:
 The Object Detection Model project showcases a web interface that uses an object detection model to identify and classify objects in real-time using the webcam. The model has been trained to recognize images of humans and mobile devices, providing instant feedback on detected objects.
+
 FEATURES:
 Real-time Object Detection: The web interface captures video from the user's webcam and processes it through the object detection model, delivering real-time results on detected objects.
 User-Friendly Interface: The interface is designed for ease of use, with a simple "Start" button to initiate the webcam stream and the object detection process.
